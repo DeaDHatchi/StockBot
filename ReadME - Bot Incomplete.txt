@@ -1,0 +1,1 @@
+Bot is currently in development and incomplete. This is just source code atm
