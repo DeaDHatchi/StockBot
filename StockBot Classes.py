@@ -58,7 +58,16 @@ class Symbol:
 
     def scrape_trigger(self):
         for symbol in self.stock_symbol_list:
-            self.scrapes(symbol)
+            try:
+                self.scrapes(symbol)
+            except ValueError:
+                print("ValueError for :: " + str(self.symbol) + " :: Skipping")
+                self.variable_reset()
+                continue
+            except IndexError:
+                print("IndexError for :: " + str(self.symbol) + " :: Skipping")
+                self.variable_reset()
+                continue
 
     def scrapes(self, symbol):
         self.google_scrape(symbol)
@@ -169,7 +178,6 @@ class Symbol:
         self.symbol = ""
         self.current_price = 0
         self.current_shares = 0
-        self.bought_shares = 0
         self.stock_open = 0
         self.range_low = 0
         self.range_high = 0
