@@ -43,6 +43,11 @@ class Symbol:
         self.bought_count = 0
         self.sold_count = 0
 
+    def execute(self):
+        self.excel_database(input("File Location: "))
+        self.scrape_trigger()
+        self.account_printout()
+
     def excel_database(self, file_location):
         workbook = xlrd.open_workbook(file_location)
         sheet = workbook.sheet_by_index(0)
@@ -51,14 +56,18 @@ class Symbol:
             stock_symbol = sheet.cell_value(row, 1)
             self.stock_symbol_list.append(stock_symbol)
 
-        for item in self.stock_symbol_list:
-            self.scrapes(item)
-
-        self.account_printout()
+    def scrape_trigger(self):
+        for symbol in self.stock_symbol_list:
+            self.scrapes(symbol)
 
     def scrapes(self, symbol):
         self.google_scrape(symbol)
+        self.buy_or_sell_switch()
         self.print_out()
+        # Add self.Save()
+        self.variable_reset()
+
+
 
     '''
         c_list array -- 0 = Current Price
@@ -96,7 +105,6 @@ class Symbol:
         self.stock_open = float(s_list[2])
         self.market_cap = s_list[4]
         self.market_shares = s_list[8]
-        self.buy_or_sell_switch()
 
     def buy_or_sell_switch(self):
         if self.current_shares > 0:
@@ -133,7 +141,7 @@ class Symbol:
 
     def print_out(self):
         print("")
-        print("-=-=-=-=- " + self.symbol + " -=-=-=-=-")
+        print("-=-=-=-=- " + str(self.symbol) + " -=-=-=-=-")
         print("Current Price: " + str(self.current_price))
         print("Buy Target: " + str(self.buy_target))
         print("Stock Range Low: " + str(self.range_low))
@@ -141,20 +149,20 @@ class Symbol:
         print("52 Week Range low: " + str(self.range_52_low))
         print("52 Week Range High: " + str(self.range_52_high))
         print("Stock Open: " + str(self.stock_open))
-        print("Market Cap: " + self.market_cap)
-        print("Market Shares: " + self.market_shares)
-        print("Stock Status: " + self.stock_status)
+        print("Market Cap: " + str(self.market_cap))
+        print("Market Shares: " + str(self.market_shares))
+        print("Stock Status: " + str(self.stock_status))
         print("-=-=-=-=-=-=-=-=-=-=-=-")
 
     def account_printout(self):
         print("")
-        print("-=-=-=-=-=-=-=-=-=-=-=-")
+        print("-=-=-=- Hatchi Account -=-=-=-")
         print("Account Balance: " + str(self.account_balance))
         print("Amount Invested: " + str(self.amount_invested))
         print("Bought Count: " + str(self.bought_count))
         print("Bought Shares: " + str(self.bought_shares))
         print("Sold Count: " + str(self.sold_count))
-        print("-=-=-=-=-=-=-=-=-=-=-=-")
+        print("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-")
 
     # Added for Variable Resets after scrape - 5/22/2015
     def variable_reset(self):
@@ -178,6 +186,6 @@ class Symbol:
 
 
 x = Symbol()
-x.excel_database(input("File Location: "))
+x.execute()
 # C:\Users\Travis\Documents\GitHub\StockBot\StockSymbolList.xls
 # C:\Users\Travis\Documents\GitHub\StockBot\StockSymbolList_test.xls
