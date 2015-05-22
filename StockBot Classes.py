@@ -18,28 +18,28 @@ class Symbol:
 
         # Trade Variables
         self.symbol = ""
-        self.current_price = 0
+        self.current_price = 0.0
         self.current_shares = 0
         self.bought_shares = 0
-        self.stock_open = 0
-        self.range_low = 0
-        self.range_high = 0
-        self.range_52_high = 0
-        self.range_52_low = 0
+        self.stock_open = 0.0
+        self.range_low = 0.0
+        self.range_high = 0.0
+        self.range_52_high = 0.0
+        self.range_52_low = 0.0
         self.market_cap = ""
         self.market_shares = ""
-        self.range_52 = 0
-        self.buy_target = 0
-        self.bought_price = 0
-        self.sell_target = 0
-        self.sell_price = 0
+        self.range_52 = 0.0
+        self.buy_target = 0.0
+        self.bought_price = 0.0
+        self.sell_target = 0.0
+        self.sell_price = 0.0
         self.stock_status = ""
 
         # Account Variables
         self.account_balance = 1000000.0
-        self.amount_invested = 0
+        self.amount_invested = 0.0
         self.gross = 0.0
-        self.net_profit = 0
+        self.net_profit = 0.0
         self.bought_count = 0
         self.sold_count = 0
 
@@ -77,8 +77,6 @@ class Symbol:
         self.buy_or_sell_switch()
         # Add self.Save()
         self.variable_reset()
-
-
 
     '''
         c_list array -- 0 = Current Price
@@ -140,12 +138,13 @@ class Symbol:
     def sell_shares(self):
         self.sell_target = self.bought_price + (self.bought_price * self.investment_return) + \
             (self.transaction_cost / self.trade_shares)
-        if self.current_price >= self.sell_target and self.current_shares <= self.max_shares - self.trade_shares:
-            self.current_shares -= self.trade_shares
+        if self.current_price >= self.sell_target:
+            self.amount_invested -= (self.bought_price * self.trade_shares) + self.transaction_cost
             self.gross += self.current_price * self.current_shares
-            self.net_profit = (self.current_price * self.current_shares) - (self.bought_price * self.current_shares) \
+            self.net_profit += (self.current_price * self.current_shares) - (self.bought_price * self.current_shares) \
                 - (self.transaction_cost * 2)
             self.account_balance += (self.current_price * self.trade_shares) - self.transaction_cost
+            self.current_shares -= self.trade_shares
             self.stock_status = "Sold"
             self.sold_count += 1
             self.print_out()
