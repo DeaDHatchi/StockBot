@@ -36,7 +36,6 @@ class Symbol:
         self.investment_return = 0.15
         self.bought_count = 0
         self.sold_count = 0
-        self.file_location = ""
         self.amount_invested = 0
 
     def excel_database(self, file_location):
@@ -49,14 +48,6 @@ class Symbol:
 
         for item in self.stock_symbol_list:
             self.scrapes(item)
-
-        print("-=-=-=-=-=-=-=-=-=-=-=-")
-        print("Account Balance: " + str(self.account_balance))
-        print("Amount Invested: " + str(self.amount_invested))
-        print("Bought Count: " + str(self.bought_count))
-        print("Bought Shares: " + str(self.bought_shares))
-        print("Sold Count: " + str(self.sold_count))
-        print("-=-=-=-=-=-=-=-=-=-=-=-")
 
     def scrapes(self, symbol):
         self.google_scrape(symbol)
@@ -148,6 +139,15 @@ class Symbol:
         print("Market Cap: " + self.market_cap)
         print("Market Shares: " + self.market_shares)
         print("Stock Status: " + self.stock_status)
+        print("-=-=-=-=-=-=-=-=-=-=-=-")
+
+    def account_printout(self):
+        print("-=-=-=-=-=-=-=-=-=-=-=-")
+        print("Account Balance: " + str(self.account_balance))
+        print("Amount Invested: " + str(self.amount_invested))
+        print("Bought Count: " + str(self.bought_count))
+        print("Bought Shares: " + str(self.bought_shares))
+        print("Sold Count: " + str(self.sold_count))
         print("-=-=-=-=-=-=-=-=-=-=-=-")
 
 

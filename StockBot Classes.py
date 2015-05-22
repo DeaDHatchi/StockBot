@@ -8,12 +8,19 @@ import xlrd
 class Symbol:
 
     def __init__(self):
+        # Hard Coded Values
         self.stock_symbol_list = []
+        self.stock_margin = 0.15
+        self.transaction_cost = 7
+        self.trade_shares = 100
+        self.max_shares = 100
+        self.investment_return = 0.15
+
+        # Trade Variables
         self.symbol = ""
         self.current_price = 0
         self.current_shares = 0
         self.bought_shares = 0
-        self.stock_status = ""
         self.stock_open = 0
         self.range_low = 0
         self.range_high = 0
@@ -22,22 +29,19 @@ class Symbol:
         self.market_cap = ""
         self.market_shares = ""
         self.range_52 = 0
-        self.account_balance = 1000000.0
-        self.stock_margin = 0.15
-        self.transaction_cost = 7
         self.buy_target = 0
         self.bought_price = 0
         self.sell_target = 0
         self.sell_price = 0
+        self.stock_status = ""
+
+        # Account Variables
+        self.account_balance = 1000000.0
+        self.amount_invested = 0
         self.gross = 0.0
         self.net_profit = 0
-        self.trade_shares = 100
-        self.max_shares = 100
-        self.investment_return = 0.15
         self.bought_count = 0
         self.sold_count = 0
-        self.file_location = ""
-        self.amount_invested = 0
 
     def excel_database(self, file_location):
         workbook = xlrd.open_workbook(file_location)
@@ -50,17 +54,10 @@ class Symbol:
         for item in self.stock_symbol_list:
             self.scrapes(item)
 
-        print("-=-=-=-=-=-=-=-=-=-=-=-")
-        print("Account Balance: " + str(self.account_balance))
-        print("Amount Invested: " + str(self.amount_invested))
-        print("Bought Count: " + str(self.bought_count))
-        print("Bought Shares: " + str(self.bought_shares))
-        print("Sold Count: " + str(self.sold_count))
-        print("-=-=-=-=-=-=-=-=-=-=-=-")
-
     def scrapes(self, symbol):
         self.google_scrape(symbol)
         self.print_out()
+        self.account_printout()
 
     '''
         c_list array -- 0 = Current Price
@@ -148,6 +145,16 @@ class Symbol:
         print("Market Cap: " + self.market_cap)
         print("Market Shares: " + self.market_shares)
         print("Stock Status: " + self.stock_status)
+        print("-=-=-=-=-=-=-=-=-=-=-=-")
+
+    def account_printout(self):
+        print("")
+        print("-=-=-=-=-=-=-=-=-=-=-=-")
+        print("Account Balance: " + str(self.account_balance))
+        print("Amount Invested: " + str(self.amount_invested))
+        print("Bought Count: " + str(self.bought_count))
+        print("Bought Shares: " + str(self.bought_shares))
+        print("Sold Count: " + str(self.sold_count))
         print("-=-=-=-=-=-=-=-=-=-=-=-")
 
 
