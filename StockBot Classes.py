@@ -54,10 +54,11 @@ class Symbol:
         for item in self.stock_symbol_list:
             self.scrapes(item)
 
+        self.account_printout()
+
     def scrapes(self, symbol):
         self.google_scrape(symbol)
         self.print_out()
-        self.account_printout()
 
     '''
         c_list array -- 0 = Current Price
@@ -103,7 +104,6 @@ class Symbol:
         else:
             self.buy_shares()
 
-    # Variables to Save: Bought_Price, Bought_Shares
     def buy_shares(self):
         self.buy_target = self.range_52_low + (self.range_52 * self.stock_margin)
         if self.current_price <= self.buy_target and self.current_shares < self.max_shares and self.account_balance > \
@@ -117,7 +117,6 @@ class Symbol:
         else:
             self.stock_status = "Waiting"
 
-    # Variables to Save:
     def sell_shares(self):
         self.sell_target = self.bought_price + (self.bought_price * self.investment_return) + \
             (self.transaction_cost / self.trade_shares)
@@ -157,8 +156,28 @@ class Symbol:
         print("Sold Count: " + str(self.sold_count))
         print("-=-=-=-=-=-=-=-=-=-=-=-")
 
+    # Added for Variable Resets after scrape - 5/22/2015
+    def variable_reset(self):
+        self.symbol = ""
+        self.current_price = 0
+        self.current_shares = 0
+        self.bought_shares = 0
+        self.stock_open = 0
+        self.range_low = 0
+        self.range_high = 0
+        self.range_52_high = 0
+        self.range_52_low = 0
+        self.market_cap = ""
+        self.market_shares = ""
+        self.range_52 = 0
+        self.buy_target = 0
+        self.bought_price = 0
+        self.sell_target = 0
+        self.sell_price = 0
+        self.stock_status = ""
+
 
 x = Symbol()
 x.excel_database(input("File Location: "))
-# C:\Users\Travis\Documents\StockSymbolList.xls
-# C:\Users\Travis\Documents\StockSymbolList_test.xls
+# C:\Users\Travis\Documents\GitHub\StockBot\StockSymbolList.xls
+# C:\Users\Travis\Documents\GitHub\StockBot\StockSymbolList_test.xls
