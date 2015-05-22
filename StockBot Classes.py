@@ -62,10 +62,12 @@ class Symbol:
             try:
                 self.scrapes(symbol)
             except ValueError:
+                print("")
                 print("ValueError for :: " + str(self.symbol) + " :: Skipping")
                 self.variable_reset()
                 continue
             except IndexError:
+                print("")
                 print("IndexError for :: " + str(self.symbol) + " :: Skipping")
                 self.variable_reset()
                 continue
