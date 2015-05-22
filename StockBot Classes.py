@@ -56,6 +56,7 @@ class Symbol:
             stock_symbol = sheet.cell_value(row, 1)
             self.stock_symbol_list.append(stock_symbol)
 
+    # Added Error Handling for Value + Index Errors on Scrapes - Skips - 5/22/2015
     def scrape_trigger(self):
         for symbol in self.stock_symbol_list:
             try:
@@ -72,7 +73,6 @@ class Symbol:
     def scrapes(self, symbol):
         self.google_scrape(symbol)
         self.buy_or_sell_switch()
-        self.print_out()
         # Add self.Save()
         self.variable_reset()
 
@@ -131,6 +131,7 @@ class Symbol:
             self.bought_shares += self.trade_shares
             self.stock_status = "Bought"
             self.bought_count += 1
+            self.print_out()
         else:
             self.stock_status = "Waiting"
 
@@ -145,6 +146,7 @@ class Symbol:
             self.account_balance += (self.current_price * self.trade_shares) - self.transaction_cost
             self.stock_status = "Sold"
             self.sold_count += 1
+            self.print_out()
         else:
             self.stock_status = "Waiting"
 
