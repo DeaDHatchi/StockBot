@@ -149,14 +149,16 @@ class Symbol:
         print("-=-=-=- Hatchi Account -=-=-=-")
         print("Account Balance: " + str(self.account_balance))
         print("Amount Invested: " + str(self.amount_invested))
+        print("Net Profit: " + str(self.net_profit))
+        print("Gross Profit: " + str(self.gross))
         print("Total Bought Count: " + str(self.bought_count))
         print("Total Sold Count: " + str(self.sold_count))
         print("-=-=-=- Bought List -=-=-=-")
         for item in self.bought_list:
-            print("::" + item)
+            print("> " + item)
         print("-=-=-=- Sold List -=-=-=-")
         for item in self.sold_list:
-            print("::" + item)
+            print("> " + item)
 
     # Added for Variable Resets after scrape - 5/22/2015
     def variable_reset(self):
