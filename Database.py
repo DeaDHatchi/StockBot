@@ -6,12 +6,12 @@ from StockBot import Symbol
 # Account Text File Format :: "Account_Balance-Amount_Invested-Gross-Net_Profit-Bought_Count-Sold_Count
 
 '''
-        self.account_balance = 1000000.0
-        self.amount_invested = 0.0
-        self.gross = 0.0
-        self.net_profit = 0.0
-        self.bought_count = 0
-        self.sold_count = 0
+        account_item_list[0] :: self.account_balance = 1000000.0
+        account_item_list[1] :: self.amount_invested = 0.0
+        account_item_list[2] :: self.gross = 0.0
+        account_item_list[3] :: self.net_profit = 0.0
+        account_item_list[4] :: self.bought_count = 0
+        account_item_list[5] :: self.sold_count = 0
 '''
 
 
@@ -40,8 +40,8 @@ class Database:
                 x.current_shares = int(item_list[2])
                 x.google_scrape()
                 x.buy_or_sell_switch()
-                yString = str(x.symbol) + "-" + str(x.bought_price) + "-" + str(x.current_shares) + "\n"
-                self.stock_database_string.append(yString)
+                string_input = str(x.symbol) + "-" + str(x.bought_price) + "-" + str(x.current_shares) + "\n"
+                self.stock_database_string.append(string_input)
                 x.variable_reset()
             except ValueError:
                 print("")
@@ -78,7 +78,3 @@ x = Symbol()
 y = Database()
 y.read_file()
 y.write_file()
-
-
-# C:\Users\Travis\Documents\GitHub\StockBot\StockSymbolList.xls
-# C:\Users\Travis\Documents\GitHub\StockBot\StockSymbolList_test.xls

@@ -50,6 +50,7 @@ class Symbol:
         s_list array -- 6 = Div/yield, 7 = EPS, 8 = Shares, 9 = Beta, 10 = Inst. own
     '''
 
+    # Google Scrape for Stock Information
     def google_scrape(self):
         r = requests.get("https://www.google.com/finance?q=" + self.symbol)
         data = r.text
@@ -80,12 +81,14 @@ class Symbol:
         self.market_cap = s_list[4]
         self.market_shares = s_list[8]
 
+    # Buy/Sell Switch based on Current Shares
     def buy_or_sell_switch(self):
         if self.current_shares > 0:
             self.sell_shares()
         else:
             self.buy_shares()
 
+    # Buy Parameters Function
     def buy_shares(self):
         self.buy_target = self.range_52_low + (self.range_52 * self.stock_margin)
         if self.current_price <= self.buy_target and self.current_shares < self.max_shares and self.account_balance > \
@@ -97,10 +100,13 @@ class Symbol:
             self.stock_status = "Bought"
             self.bought_count += 1
             self.bought_list.append(self.symbol)
+            self.sell_target = self.bought_price + (self.bought_price * self.investment_return) + \
+                (self.transaction_cost / self.trade_shares)
             self.print_out()
         else:
             self.stock_status = "Waiting"
 
+    # Sell Parameters Function
     def sell_shares(self):
         self.sell_target = self.bought_price + (self.bought_price * self.investment_return) + \
             (self.transaction_cost / self.trade_shares)
@@ -119,11 +125,14 @@ class Symbol:
         else:
             self.stock_status = "Waiting"
 
+    # Basic printout of stock information on Buy/Sell
     def print_out(self):
         print("")
         print("-=-=-=-=- " + str(self.symbol) + " -=-=-=-=-")
         print("Current Price: " + str(self.current_price))
         print("Buy Target: " + str(self.buy_target))
+        print("Sell Target: " + str(self.sell_target))
+        print("Current Value: ") + str(self.current_price * self.current_shares)
         print("Stock Range Low: " + str(self.range_low))
         print("Stock Range High: " + str(self.range_high))
         print("52 Week Range low: " + str(self.range_52_low))
@@ -134,6 +143,7 @@ class Symbol:
         print("Stock Status: " + str(self.stock_status))
         print("-=-=-=-=-=-=-=-=-=-=-=-")
 
+    # Added for Full Account Details after run 5/26/2015
     def account_printout(self):
         print("")
         print("-=-=-=- Hatchi Account -=-=-=-")
@@ -167,9 +177,7 @@ class Symbol:
         self.sell_price = 0
         self.stock_status = ""
 
+    # Added for List Resets after run completion - 5/26/2015
     def list_reset(self):
         self.bought_list = []
         self.sold_list = []
-
-# C:\Users\Travis\Documents\GitHub\StockBot\StockSymbolList.xls
-# C:\Users\Travis\Documents\GitHub\StockBot\StockSymbolList_test.xls
