@@ -153,9 +153,11 @@ class Symbol:
         print("Gross Profit: " + str(self.gross))
         print("Total Bought Count: " + str(self.bought_count))
         print("Total Sold Count: " + str(self.sold_count))
+        print("")
         print("-=-=-=- Bought List -=-=-=-")
         for item in self.bought_list:
             print("> " + item)
+        print("")
         print("-=-=-=- Sold List -=-=-=-")
         for item in self.sold_list:
             print("> " + item)
