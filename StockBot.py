@@ -1,6 +1,7 @@
 __author__ = 'Hatchi'
 
 from bs4 import BeautifulSoup
+from datetime import datetime
 import requests
 
 
@@ -102,6 +103,7 @@ class Symbol:
             self.bought_list.append(self.symbol)
             self.sell_target = self.bought_price + (self.bought_price * self.investment_return) + \
                 (self.transaction_cost / self.trade_shares)
+            self.buy_transaction_log()
             self.print_out()
         else:
             self.stock_status = "Waiting"
@@ -121,6 +123,7 @@ class Symbol:
             self.sold_count += 1
             self.stock_status = "Sold"
             self.sold_list.append(self.symbol)
+            self.sell_transaction_log()
             self.print_out()
         else:
             self.stock_status = "Waiting"
@@ -132,7 +135,6 @@ class Symbol:
         print("Current Price: " + str(self.current_price))
         print("Buy Target: " + str(self.buy_target))
         print("Sell Target: " + str(self.sell_target))
-        print("Current Value: ") + str(self.current_price * self.current_shares)
         print("Stock Range Low: " + str(self.range_low))
         print("Stock Range High: " + str(self.range_high))
         print("52 Week Range low: " + str(self.range_52_low))
@@ -161,6 +163,44 @@ class Symbol:
         print("-=-=-=- Sold List -=-=-=-")
         for item in self.sold_list:
             print("> " + item)
+
+    def buy_transaction_log(self):
+        transaction_log = open("buy_transaction_log.txt", "a")
+        transaction_log.write("" + "\n")
+        transaction_log.write("-=-=-=-=- " + str(self.symbol) + " -=-=-=-=-" + "\n")
+        transaction_log.write("Transaction Time: " + str(datetime.now()) + "\n")
+        transaction_log.write("Current Price: " + str(self.current_price) + "\n")
+        transaction_log.write("Buy Target: " + str(self.buy_target) + "\n")
+        transaction_log.write("Sell Target: " + str(self.sell_target) + "\n")
+        transaction_log.write("Stock Range Low: " + str(self.range_low) + "\n")
+        transaction_log.write("Stock Range High: " + str(self.range_high) + "\n")
+        transaction_log.write("52 Week Range low: " + str(self.range_52_low) + "\n")
+        transaction_log.write("52 Week Range High: " + str(self.range_52_high) + "\n")
+        transaction_log.write("Stock Open: " + str(self.stock_open) + "\n")
+        transaction_log.write("Market Cap: " + str(self.market_cap) + "\n")
+        transaction_log.write("Market Shares: " + str(self.market_shares) + "\n")
+        transaction_log.write("Stock Status: " + str(self.stock_status) + "\n")
+        transaction_log.write("-=-=-=-=-=-=-=-=-=-=-=-" + "\n")
+        transaction_log.close()
+
+    def sell_transaction_log(self):
+        transaction_log = open("sell_transaction_log.txt", "a")
+        transaction_log.write("" + "\n")
+        transaction_log.write("-=-=-=-=- " + str(self.symbol) + " -=-=-=-=-" + "\n")
+        transaction_log.write("Transaction Time: " + str(datetime.now()) + "\n")
+        transaction_log.write("Current Price: " + str(self.current_price) + "\n")
+        transaction_log.write("Buy Target: " + str(self.buy_target) + "\n")
+        transaction_log.write("Sell Target: " + str(self.sell_target) + "\n")
+        transaction_log.write("Stock Range Low: " + str(self.range_low) + "\n")
+        transaction_log.write("Stock Range High: " + str(self.range_high) + "\n")
+        transaction_log.write("52 Week Range low: " + str(self.range_52_low) + "\n")
+        transaction_log.write("52 Week Range High: " + str(self.range_52_high) + "\n")
+        transaction_log.write("Stock Open: " + str(self.stock_open) + "\n")
+        transaction_log.write("Market Cap: " + str(self.market_cap) + "\n")
+        transaction_log.write("Market Shares: " + str(self.market_shares) + "\n")
+        transaction_log.write("Stock Status: " + str(self.stock_status) + "\n")
+        transaction_log.write("-=-=-=-=-=-=-=-=-=-=-=-" + "\n")
+        transaction_log.close()
 
     # Added for Variable Resets after scrape - 5/22/2015
     def variable_reset(self):

@@ -1,0 +1,15 @@
+
+-=-=-=-=- AMD -=-=-=-=-
+Transaction Time: 2015-05-27 10:39:28.335808
+Current Price: 2.28
+Buy Target: 2.539
+Sell Target: 2.6919999999999997
+Stock Range Low: 2.2
+Stock Range High: 2.28
+52 Week Range low: 2.14
+52 Week Range High: 4.8
+Stock Open: 2.24
+Market Cap: 1.76B
+Market Shares: 778.06M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-

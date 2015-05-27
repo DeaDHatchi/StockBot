@@ -74,6 +74,7 @@ class Database:
         stock_text_file.close()
         account_text_file.close()
 
+
 x = Symbol()
 y = Database()
 y.read_file()
