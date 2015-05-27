@@ -2,8 +2,8 @@ __author__ = 'Hatchi'
 
 from StockBot import Symbol
 
-# Stock Text File Format :: "Stock Symbol-Bought_Price-Bought_Shares-Sell_Target"
-# Account Text File Format :: "Account_Balance-Amount_Invested-Gross-Net_Profit-Bought_Count-Sold_Count
+# Stock Text File Format :: Stock Symbol - Bought_Price - Current_Shares
+# Account Text File Format :: Account_Balance - Amount_Invested - Gross - Net_Profit - Bought_Count - Sold_Count
 
 '''
         account_item_list[0] :: self.account_balance = 1000000.0
