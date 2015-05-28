@@ -1,15 +1,60 @@
 
 -=-=-=-=- AMD -=-=-=-=-
-Transaction Time: 2015-05-27 10:39:28.335808
-Current Price: 2.28
+Transaction Time: 2015-05-27 11:31:49.848451
+Current Price: 2.26
 Buy Target: 2.539
-Sell Target: 2.6919999999999997
+Sell Target: 2.6689999999999996
 Stock Range Low: 2.2
 Stock Range High: 2.28
 52 Week Range low: 2.14
 52 Week Range High: 4.8
 Stock Open: 2.24
-Market Cap: 1.76B
+Market Cap: 1.74B
 Market Shares: 778.06M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- BDN -=-=-=-=-
+Transaction Time: 2015-05-28 08:07:13.409709
+Current Price: 14.31
+Buy Target: 14.333499999999999
+Sell Target: 16.526500000000002
+Stock Range Low: 14.31
+Stock Range High: 14.52
+52 Week Range low: 13.84
+52 Week Range High: 17.13
+Stock Open: 14.48
+Market Cap: 2.57B
+Market Shares: 179.87M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- BMR -=-=-=-=-
+Transaction Time: 2015-05-28 08:07:34.053193
+Current Price: 20.54
+Buy Target: 20.639000000000003
+Sell Target: 23.691
+Stock Range Low: 20.53
+Stock Range High: 21.08
+52 Week Range low: 19.85
+52 Week Range High: 25.11
+Stock Open: 21.0
+Market Cap: 4.18B
+Market Shares: 203.56M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- IFT -=-=-=-=-
+Transaction Time: 2015-05-28 10:31:54.837943
+Current Price: 6.0
+Buy Target: 6.109
+Sell Target: 6.970000000000001
+Stock Range Low: 6.0
+Stock Range High: 6.2
+52 Week Range low: 5.86
+52 Week Range High: 7.52
+Stock Open: 6.2
+Market Cap: 129.25M
+Market Shares: 21.40M
 Stock Status: Bought
 -=-=-=-=-=-=-=-=-=-=-=-
