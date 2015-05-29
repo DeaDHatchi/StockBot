@@ -58,3 +58,63 @@ Market Cap: 129.25M
 Market Shares: 21.40M
 Stock Status: Bought
 -=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- JOUT -=-=-=-=-
+Transaction Time: 2015-05-29 08:02:57.552716
+Current Price: 23.97
+Buy Target: 24.121
+Sell Target: 27.6355
+Stock Range Low: 23.56
+Stock Range High: 26.11
+52 Week Range low: 22.15
+52 Week Range High: 35.29
+Stock Open: 25.4
+Market Cap: 239.81M
+Market Shares: 8.79M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- SKM -=-=-=-=-
+Transaction Time: 2015-05-29 08:06:23.819089
+Current Price: 24.52
+Buy Target: 24.759500000000003
+Sell Target: 28.268
+Stock Range Low: 24.46
+Stock Range High: 24.74
+52 Week Range low: 23.51
+52 Week Range High: 31.84
+Stock Open: 24.73
+Market Cap: 17.77B
+Market Shares: 70.94M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- ENPH -=-=-=-=-
+Transaction Time: 2015-05-29 11:16:46.817088
+Current Price: 9.49
+Buy Target: 9.623
+Sell Target: 10.983500000000001
+Stock Range Low: 9.47
+Stock Range High: 9.82
+52 Week Range low: 8.15
+52 Week Range High: 17.97
+Stock Open: 9.81
+Market Cap: 427.31M
+Market Shares: 44.16M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- MNR -=-=-=-=-
+Transaction Time: 2015-05-29 11:20:52.944110
+Current Price: 9.7
+Buy Target: 9.741
+Sell Target: 11.225
+Stock Range Low: 9.68
+Stock Range High: 9.79
+52 Week Range low: 9.33
+52 Week Range High: 12.07
+Stock Open: 9.78
+Market Cap: 578.20M
+Market Shares: 59.24M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
