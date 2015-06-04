@@ -1,0 +1,15 @@
+
+-=-=-=-=- AERI -=-=-=-=-
+Transaction Time: 2015-06-02 09:30:22.980024
+Current Price: 12.31
+Buy Target: 0
+Sell Target: 12.283
+Stock Range Low: 11.61
+Stock Range High: 12.46
+52 Week Range low: 8.84
+52 Week Range High: 35.89
+Stock Open: 12.04
+Market Cap: 305.76M
+Market Shares: 25.42M
+Stock Status: Sold
+-=-=-=-=-=-=-=-=-=-=-=-
