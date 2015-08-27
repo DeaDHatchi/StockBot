@@ -13,3 +13,168 @@ Market Cap: 305.76M
 Market Shares: 25.42M
 Stock Status: Sold
 -=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- AERI -=-=-=-=-
+Transaction Time: 2015-06-16 05:35:21.775994
+Current Price: 19.27
+Buy Target: 0
+Sell Target: 14.008
+Stock Range Low: 19.1
+Stock Range High: 20.2
+52 Week Range low: 8.84
+52 Week Range High: 35.89
+Stock Open: 19.56
+Market Cap: 489.91M
+Market Shares: 25.42M
+Stock Status: Sold
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- CDZI -=-=-=-=-
+Transaction Time: 2015-06-18 08:32:47.040366
+Current Price: 9.38
+Buy Target: 0
+Sell Target: 9.339
+Stock Range Low: 8.65
+Stock Range High: 9.48
+52 Week Range low: 6.88
+52 Week Range High: 14.9
+Stock Open: 8.84
+Market Cap: 153.78M
+Market Shares: 17.72M
+Stock Status: Sold
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- HT -=-=-=-=-
+Transaction Time: 2015-06-29 09:19:16.173844
+Current Price: 25.76
+Buy Target: 0
+Sell Target: 7.292000000000001
+Stock Range Low: 25.76
+Stock Range High: 26.24
+52 Week Range low: 24.6
+52 Week Range High: 29.96
+Stock Open: 26.05
+Market Cap: 1.37B
+Market Shares: 49.08M
+Stock Status: Sold
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- HT -=-=-=-=-
+Transaction Time: 2015-06-29 09:38:25.331247
+Current Price: 25.72
+Buy Target: 0
+Sell Target: 7.292000000000001
+Stock Range Low: 25.66
+Stock Range High: 26.24
+52 Week Range low: 24.6
+52 Week Range High: 29.96
+Stock Open: 26.05
+Market Cap: 1.37B
+Market Shares: 49.08M
+Stock Status: Sold
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- VIPS -=-=-=-=-
+Transaction Time: 2015-07-09 05:44:36.073751
+Current Price: 22.47
+Buy Target: 0
+Sell Target: 21.7245
+Stock Range Low: 22.06
+Stock Range High: 22.86
+52 Week Range low: 16.95
+52 Week Range High: 30.72
+Stock Open: 22.76
+Market Cap: 12.99B
+Market Shares: 991.71M
+Stock Status: Sold
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- SHI -=-=-=-=-
+Transaction Time: 2015-07-09 06:38:31.766873
+Current Price: 39.36
+Buy Target: 0
+Sell Target: 38.963
+Stock Range Low: 38.45
+Stock Range High: 39.74
+52 Week Range low: 28.21
+52 Week Range High: 67.8
+Stock Open: 39.3
+Market Cap: 10.34B
+Market Shares: 3.50B
+Stock Status: Sold
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- TE -=-=-=-=-
+Transaction Time: 2015-07-16 10:35:08.585762
+Current Price: 20.69
+Buy Target: 0
+Sell Target: 20.379
+Stock Range Low: 18.46
+Stock Range High: 20.69
+52 Week Range low: 16.91
+52 Week Range High: 22.02
+Stock Open: 18.56
+Market Cap: 4.82B
+Market Shares: 235.12M
+Stock Status: Sold
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- STON -=-=-=-=-
+Transaction Time: 2015-08-07 06:31:31.214986
+Current Price: 26.75
+Buy Target: 0
+Sell Target: 26.5315
+Stock Range Low: 25.67
+Stock Range High: 27.16
+52 Week Range low: 22.27
+52 Week Range High: 32.06
+Stock Open: 25.67
+Market Cap: 839.96M
+Market Shares: 31.41M
+Stock Status: Sold
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- TNET -=-=-=-=-
+Transaction Time: 2015-08-07 11:31:41.215151
+Current Price: 18.59
+Buy Target: 0
+Sell Target: 18.47
+Stock Range Low: 17.12
+Stock Range High: 18.64
+52 Week Range low: 14.82
+52 Week Range High: 38.0
+Stock Open: 17.16
+Market Cap: 1.30B
+Market Shares: 70.49M
+Stock Status: Sold
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- LGF -=-=-=-=-
+Transaction Time: 2015-08-24 06:30:36.261740
+Current Price: 35.08
+Buy Target: 0
+Sell Target: 31.706500000000002
+Stock Range Low: 27.51
+Stock Range High: 35.1
+52 Week Range low: 27.51
+52 Week Range High: 39.73
+Stock Open: 34.2
+Market Cap: 5.90B
+Market Shares: 148.30M
+Stock Status: Sold
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- XL -=-=-=-=-
+Transaction Time: 2015-08-24 06:31:39.089867
+Current Price: 36.98
+Buy Target: 0
+Sell Target: 6.280000000000001
+Stock Range Low: 5.4
+Stock Range High: 37.06
+52 Week Range low: 5.4
+52 Week Range High: 40.41
+Stock Open: 35.24
+Market Cap: 79.00B
+Market Shares: 302.31M
+Stock Status: Sold
+-=-=-=-=-=-=-=-=-=-=-=-

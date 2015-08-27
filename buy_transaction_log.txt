@@ -328,3 +328,1593 @@ Market Cap: 6.60B
 Market Shares: 182.68M
 Stock Status: Bought
 -=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- WR -=-=-=-=-
+Transaction Time: 2015-06-04 09:42:57.734171
+Current Price: 35.26
+Buy Target: 35.275
+Sell Target: 40.619
+Stock Range Low: 35.21
+Stock Range High: 35.66
+52 Week Range low: 33.73
+52 Week Range High: 44.03
+Stock Open: 35.35
+Market Cap: 4.67B
+Market Shares: 132.24M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- CTSO -=-=-=-=-
+Transaction Time: 2015-06-04 10:32:13.503728
+Current Price: 6.01
+Buy Target: 6.026
+Sell Target: 6.9815000000000005
+Stock Range Low: 6.0
+Stock Range High: 6.5
+52 Week Range low: 4.4
+52 Week Range High: 15.24
+Stock Open: 6.4
+Market Cap: 151.69M
+Market Shares: 24.76M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- HT -=-=-=-=-
+Transaction Time: 2015-06-05 05:40:04.201695
+Current Price: 6.28
+Buy Target: 6.351
+Sell Target: 7.292000000000001
+Stock Range Low: 6.27
+Stock Range High: 6.33
+52 Week Range low: 6.15
+52 Week Range High: 7.49
+Stock Open: 6.33
+Market Cap: 1.34B
+Market Shares: 196.32M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- SBRA -=-=-=-=-
+Transaction Time: 2015-06-05 05:43:30.084401
+Current Price: 25.48
+Buy Target: 25.5745
+Sell Target: 29.372
+Stock Range Low: 25.37
+Stock Range High: 26.17
+52 Week Range low: 24.01
+52 Week Range High: 34.44
+Stock Open: 25.95
+Market Cap: 1.51B
+Market Shares: 59.23M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- ZUMZ -=-=-=-=-
+Transaction Time: 2015-06-05 05:45:28.327786
+Current Price: 25.01
+Buy Target: 27.5215
+Sell Target: 28.831500000000002
+Stock Range Low: 25.0
+Stock Range High: 25.98
+52 Week Range low: 25.0
+52 Week Range High: 41.81
+Stock Open: 25.0
+Market Cap: 737.99M
+Market Shares: 29.42M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- BNJ -=-=-=-=-
+Transaction Time: 2015-06-05 11:31:21.258199
+Current Price: 14.56
+Buy Target: 14.625499999999999
+Sell Target: 16.814
+Stock Range Low: 14.55
+Stock Range High: 14.73
+52 Week Range low: 14.12
+52 Week Range High: 17.49
+Stock Open: 14.73
+Market Cap: 111.78M
+Market Shares: 7.66M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- WY -=-=-=-=-
+Transaction Time: 2015-06-05 11:40:59.913362
+Current Price: 31.46
+Buy Target: 31.481
+Sell Target: 36.249
+Stock Range Low: 31.46
+Stock Range High: 31.89
+52 Week Range low: 30.5
+52 Week Range High: 37.04
+Stock Open: 31.48
+Market Cap: 16.30B
+Market Shares: 517.75M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- MHD -=-=-=-=-
+Transaction Time: 2015-06-08 09:35:58.109841
+Current Price: 15.96
+Buy Target: 16.018
+Sell Target: 18.424
+Stock Range Low: 15.95
+Stock Range High: 16.11
+52 Week Range low: 15.67
+52 Week Range High: 17.99
+Stock Open: 16.11
+Market Cap: 226.27M
+Market Shares: 14.13M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- MHF -=-=-=-=-
+Transaction Time: 2015-06-08 09:35:58.905486
+Current Price: 7.31
+Buy Target: 7.318
+Sell Target: 8.4765
+Stock Range Low: 7.3
+Stock Range High: 7.42
+52 Week Range low: 7.21
+52 Week Range High: 7.93
+Stock Open: 7.41
+Market Cap: 159.41M
+Market Shares: 21.60M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- MYF -=-=-=-=-
+Transaction Time: 2015-06-08 10:36:47.061769
+Current Price: 14.54
+Buy Target: 14.5795
+Sell Target: 16.791
+Stock Range Low: 14.54
+Stock Range High: 14.76
+52 Week Range low: 14.26
+52 Week Range High: 16.39
+Stock Open: 14.63
+Market Cap: 199.89M
+Market Shares: 13.62M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- OUT -=-=-=-=-
+Transaction Time: 2015-06-09 05:41:59.672373
+Current Price: 27.06
+Buy Target: 27.1985
+Sell Target: 31.189
+Stock Range Low: 27.02
+Stock Range High: 27.16
+52 Week Range low: 25.7
+52 Week Range High: 35.69
+Stock Open: 27.13
+Market Cap: 3.72B
+Market Shares: 137.33M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- DRH -=-=-=-=-
+Transaction Time: 2015-06-09 06:32:43.638752
+Current Price: 12.67
+Buy Target: 12.729000000000001
+Sell Target: 14.6405
+Stock Range Low: 12.67
+Stock Range High: 12.8
+52 Week Range low: 12.15
+52 Week Range High: 16.01
+Stock Open: 12.79
+Market Cap: 2.54B
+Market Shares: 200.71M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- EVN -=-=-=-=-
+Transaction Time: 2015-06-09 06:33:09.935548
+Current Price: 12.25
+Buy Target: 12.3375
+Sell Target: 14.1575
+Stock Range Low: 12.23
+Stock Range High: 12.49
+52 Week Range low: 12.0
+52 Week Range High: 14.25
+Stock Open: 12.46
+Market Cap: 289.48M
+Market Shares: 23.70M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- HKTV -=-=-=-=-
+Transaction Time: 2015-06-09 06:34:13.780199
+Current Price: 6.64
+Buy Target: 6.662
+Sell Target: 7.7059999999999995
+Stock Range Low: 6.64
+Stock Range High: 6.75
+52 Week Range low: 5.75
+52 Week Range High: 11.83
+Stock Open: 6.69
+Market Cap: 273.47M
+Market Shares: 809.02M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- PMF -=-=-=-=-
+Transaction Time: 2015-06-09 06:37:37.891550
+Current Price: 13.75
+Buy Target: 13.799
+Sell Target: 15.8825
+Stock Range Low: 13.72
+Stock Range High: 13.95
+52 Week Range low: 13.4
+52 Week Range High: 16.06
+Stock Open: 13.95
+Market Cap: 349.19M
+Market Shares: 25.40M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- BBK -=-=-=-=-
+Transaction Time: 2015-06-09 07:30:51.537999
+Current Price: 15.4
+Buy Target: 15.4255
+Sell Target: 17.78
+Stock Range Low: 15.4
+Stock Range High: 15.53
+52 Week Range low: 15.16
+52 Week Range High: 16.93
+Stock Open: 15.45
+Market Cap: 161.88M
+Market Shares: 10.51M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- IRWD -=-=-=-=-
+Transaction Time: 2015-06-09 10:35:07.380853
+Current Price: 12.2
+Buy Target: 12.469
+Sell Target: 14.1
+Stock Range Low: 12.01
+Stock Range High: 13.43
+52 Week Range low: 11.65
+52 Week Range High: 17.11
+Stock Open: 13.42
+Market Cap: 1.88B
+Market Shares: 125.91M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- PZC -=-=-=-=-
+Transaction Time: 2015-06-10 05:41:59.152401
+Current Price: 10.31
+Buy Target: 10.322999999999999
+Sell Target: 11.9265
+Stock Range Low: 10.31
+Stock Range High: 10.34
+52 Week Range low: 10.11
+52 Week Range High: 11.53
+Stock Open: 10.34
+Market Cap: 227.97M
+Market Shares: 22.11M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- BWP -=-=-=-=-
+Transaction Time: 2015-06-10 07:31:21.989085
+Current Price: 15.54
+Buy Target: 15.546
+Sell Target: 17.941
+Stock Range Low: 15.5
+Stock Range High: 15.73
+52 Week Range low: 14.67
+52 Week Range High: 20.51
+Stock Open: 15.65
+Market Cap: 3.89B
+Market Shares: 250.30M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- RSE -=-=-=-=-
+Transaction Time: 2015-06-12 05:43:37.194992
+Current Price: 16.43
+Buy Target: 16.4405
+Sell Target: 18.9645
+Stock Range Low: 16.4
+Stock Range High: 16.53
+52 Week Range low: 15.5
+52 Week Range High: 21.77
+Stock Open: 16.4
+Market Cap: 950.14M
+Market Shares: 57.83M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- KLIC -=-=-=-=-
+Transaction Time: 2015-06-12 06:35:12.355714
+Current Price: 12.78
+Buy Target: 12.8
+Sell Target: 14.767
+Stock Range Low: 12.76
+Stock Range High: 12.85
+52 Week Range low: 12.14
+52 Week Range High: 16.54
+Stock Open: 12.79
+Market Cap: 981.76M
+Market Shares: 76.82M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- FUR -=-=-=-=-
+Transaction Time: 2015-06-15 06:33:18.253464
+Current Price: 15.06
+Buy Target: 15.084999999999999
+Sell Target: 17.389
+Stock Range Low: 15.01
+Stock Range High: 15.18
+52 Week Range low: 14.53
+52 Week Range High: 18.23
+Stock Open: 15.17
+Market Cap: 548.56M
+Market Shares: 36.43M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- FUR -=-=-=-=-
+Transaction Time: 2015-06-15 07:33:25.638797
+Current Price: 15.06
+Buy Target: 15.084999999999999
+Sell Target: 17.389
+Stock Range Low: 15.01
+Stock Range High: 15.18
+52 Week Range low: 14.53
+52 Week Range High: 18.23
+Stock Open: 15.17
+Market Cap: 548.56M
+Market Shares: 36.43M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- RPT -=-=-=-=-
+Transaction Time: 2015-06-17 07:43:29.016002
+Current Price: 16.41
+Buy Target: 16.4685
+Sell Target: 18.9415
+Stock Range Low: 16.41
+Stock Range High: 16.64
+52 Week Range low: 15.81
+52 Week Range High: 20.2
+Stock Open: 16.54
+Market Cap: 1.30B
+Market Shares: 79.15M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- ESV -=-=-=-=-
+Transaction Time: 2015-06-19 09:35:30.592256
+Current Price: 21.91
+Buy Target: 25.1965
+Sell Target: 25.2665
+Stock Range Low: 21.63
+Stock Range High: 22.14
+52 Week Range low: 19.78
+52 Week Range High: 55.89
+Stock Open: 22.02
+Market Cap: 5.22B
+Market Shares: 234.29M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- ORC -=-=-=-=-
+Transaction Time: 2015-06-22 09:41:50.217833
+Current Price: 12.87
+Buy Target: 12.8735
+Sell Target: 14.8705
+Stock Range Low: 12.86
+Stock Range High: 13.12
+52 Week Range low: 12.5
+52 Week Range High: 14.99
+Stock Open: 13.11
+Market Cap: 238.63M
+Market Shares: 18.33M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- BITA -=-=-=-=-
+Transaction Time: 2015-06-29 09:12:55.808664
+Current Price: 50.07
+Buy Target: 51.4365
+Sell Target: 57.6505
+Stock Range Low: 49.63
+Stock Range High: 51.28
+52 Week Range low: 43.17
+52 Week Range High: 98.28
+Stock Open: 49.99
+Market Cap: 3.01B
+Market Shares: 63.31M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- CAPL -=-=-=-=-
+Transaction Time: 2015-06-29 09:13:25.652038
+Current Price: 27.68
+Buy Target: 27.848
+Sell Target: 31.902
+Stock Range Low: 26.7
+Stock Range High: 28.2
+52 Week Range low: 25.55
+52 Week Range High: 40.87
+Stock Open: 27.55
+Market Cap: 806.91M
+Market Shares: 29.15M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- HTA -=-=-=-=-
+Transaction Time: 2015-06-29 09:19:17.748347
+Current Price: 23.98
+Buy Target: 24.108999999999998
+Sell Target: 27.647000000000002
+Stock Range Low: 23.96
+Stock Range High: 24.25
+52 Week Range low: 23.02
+52 Week Range High: 30.28
+Stock Open: 23.97
+Market Cap: 3.00B
+Market Shares: 125.20M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- INTC -=-=-=-=-
+Transaction Time: 2015-06-29 09:19:54.323502
+Current Price: 30.58
+Buy Target: 30.598499999999998
+Sell Target: 35.237
+Stock Range Low: 30.55
+Stock Range High: 30.98
+52 Week Range low: 29.31
+52 Week Range High: 37.9
+Stock Open: 30.7
+Market Cap: 146.49B
+Market Shares: 4.74B
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- IRM -=-=-=-=-
+Transaction Time: 2015-06-29 09:20:05.545125
+Current Price: 31.36
+Buy Target: 32.673
+Sell Target: 36.134
+Stock Range Low: 31.46
+Stock Range High: 32.12
+52 Week Range low: 31.11
+52 Week Range High: 41.53
+Stock Open: 31.68
+Market Cap: 6.60B
+Market Shares: 210.56M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- MEI -=-=-=-=-
+Transaction Time: 2015-06-29 09:21:38.745071
+Current Price: 28.48
+Buy Target: 31.5325
+Sell Target: 32.822
+Stock Range Low: 28.45
+Stock Range High: 30.2
+52 Week Range low: 28.45
+52 Week Range High: 49.0
+Stock Open: 30.04
+Market Cap: 1.16B
+Market Shares: 38.36M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- NNN -=-=-=-=-
+Transaction Time: 2015-06-29 09:22:47.777015
+Current Price: 35.6
+Buy Target: 35.853500000000004
+Sell Target: 41.01
+Stock Range Low: 35.61
+Stock Range High: 36.22
+52 Week Range low: 34.34
+52 Week Range High: 44.43
+Stock Open: 35.76
+Market Cap: 4.76B
+Market Shares: 133.45M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- PCQ -=-=-=-=-
+Transaction Time: 2015-06-29 09:23:58.462088
+Current Price: 14.12
+Buy Target: 14.2495
+Sell Target: 16.308
+Stock Range Low: 14.08
+Stock Range High: 14.17
+52 Week Range low: 13.84
+52 Week Range High: 16.57
+Stock Open: 14.17
+Market Cap: 261.87M
+Market Shares: 18.57M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- RNP -=-=-=-=-
+Transaction Time: 2015-06-29 09:25:42.023968
+Current Price: 17.3
+Buy Target: 17.4715
+Sell Target: 19.965
+Stock Range Low: 17.3
+Stock Range High: 17.43
+52 Week Range low: 17.02
+52 Week Range High: 20.03
+Stock Open: 17.32
+Market Cap: 829.75M
+Market Shares: 47.77M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- RQI -=-=-=-=-
+Transaction Time: 2015-06-29 09:25:50.694585
+Current Price: 10.65
+Buy Target: 10.794
+Sell Target: 12.3175
+Stock Range Low: 10.64
+Stock Range High: 10.78
+52 Week Range low: 10.41
+52 Week Range High: 12.97
+Stock Open: 10.65
+Market Cap: 1.17B
+Market Shares: 109.65M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- SPNC -=-=-=-=-
+Transaction Time: 2015-06-29 09:27:06.434250
+Current Price: 23.96
+Buy Target: 24.3325
+Sell Target: 27.624000000000002
+Stock Range Low: 23.65
+Stock Range High: 25.25
+52 Week Range low: 22.09
+52 Week Range High: 37.04
+Stock Open: 24.8
+Market Cap: 1.07B
+Market Shares: 42.39M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- SVU -=-=-=-=-
+Transaction Time: 2015-06-29 09:27:25.322347
+Current Price: 8.32
+Buy Target: 8.4555
+Sell Target: 9.638
+Stock Range Low: 8.3
+Stock Range High: 8.47
+52 Week Range low: 7.83
+52 Week Range High: 12.0
+Stock Open: 8.4
+Market Cap: 2.23B
+Market Shares: 264.78M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- YZC -=-=-=-=-
+Transaction Time: 2015-06-29 09:30:35.005874
+Current Price: 7.89
+Buy Target: 8.0495
+Sell Target: 9.1435
+Stock Range Low: 7.85
+Stock Range High: 7.93
+52 Week Range low: 7.31
+52 Week Range High: 12.24
+Stock Open: 7.93
+Market Cap: 8.20B
+Market Shares: 6.95M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- BITA -=-=-=-=-
+Transaction Time: 2015-06-29 09:31:51.245655
+Current Price: 50.08
+Buy Target: 51.4365
+Sell Target: 57.662
+Stock Range Low: 49.63
+Stock Range High: 51.28
+52 Week Range low: 43.17
+52 Week Range High: 98.28
+Stock Open: 49.99
+Market Cap: 3.07B
+Market Shares: 63.31M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- CAPL -=-=-=-=-
+Transaction Time: 2015-06-29 09:32:21.520022
+Current Price: 27.51
+Buy Target: 27.848
+Sell Target: 31.706500000000002
+Stock Range Low: 26.7
+Stock Range High: 28.2
+52 Week Range low: 25.55
+52 Week Range High: 40.87
+Stock Open: 27.55
+Market Cap: 808.04M
+Market Shares: 29.15M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- HTA -=-=-=-=-
+Transaction Time: 2015-06-29 09:38:26.862806
+Current Price: 23.97
+Buy Target: 24.108999999999998
+Sell Target: 27.6355
+Stock Range Low: 23.92
+Stock Range High: 24.25
+52 Week Range low: 23.02
+52 Week Range High: 30.28
+Stock Open: 23.97
+Market Cap: 3.00B
+Market Shares: 125.20M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- INTC -=-=-=-=-
+Transaction Time: 2015-06-29 09:39:04.975409
+Current Price: 30.56
+Buy Target: 30.598499999999998
+Sell Target: 35.214
+Stock Range Low: 30.55
+Stock Range High: 30.98
+52 Week Range low: 29.31
+52 Week Range High: 37.9
+Stock Open: 30.7
+Market Cap: 146.37B
+Market Shares: 4.74B
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- IRM -=-=-=-=-
+Transaction Time: 2015-06-29 09:39:15.969751
+Current Price: 31.38
+Buy Target: 32.673
+Sell Target: 36.157
+Stock Range Low: 31.34
+Stock Range High: 32.12
+52 Week Range low: 31.11
+52 Week Range High: 41.53
+Stock Open: 31.68
+Market Cap: 6.61B
+Market Shares: 210.56M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- MEI -=-=-=-=-
+Transaction Time: 2015-06-29 09:40:41.808852
+Current Price: 28.48
+Buy Target: 31.4135
+Sell Target: 32.822
+Stock Range Low: 28.31
+Stock Range High: 30.2
+52 Week Range low: 28.31
+52 Week Range High: 49.0
+Stock Open: 30.04
+Market Cap: 1.16B
+Market Shares: 38.36M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- NNN -=-=-=-=-
+Transaction Time: 2015-06-29 09:41:57.078278
+Current Price: 35.64
+Buy Target: 35.853500000000004
+Sell Target: 41.056000000000004
+Stock Range Low: 35.56
+Stock Range High: 36.22
+52 Week Range low: 34.34
+52 Week Range High: 44.43
+Stock Open: 35.76
+Market Cap: 4.76B
+Market Shares: 133.45M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- PCQ -=-=-=-=-
+Transaction Time: 2015-06-29 09:43:02.591395
+Current Price: 14.12
+Buy Target: 14.2495
+Sell Target: 16.308
+Stock Range Low: 14.08
+Stock Range High: 14.17
+52 Week Range low: 13.84
+52 Week Range High: 16.57
+Stock Open: 14.17
+Market Cap: 261.87M
+Market Shares: 18.57M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- RNP -=-=-=-=-
+Transaction Time: 2015-06-29 09:44:44.457518
+Current Price: 17.32
+Buy Target: 17.4715
+Sell Target: 19.988
+Stock Range Low: 17.28
+Stock Range High: 17.43
+52 Week Range low: 17.02
+52 Week Range High: 20.03
+Stock Open: 17.32
+Market Cap: 830.71M
+Market Shares: 47.77M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- RQI -=-=-=-=-
+Transaction Time: 2015-06-29 09:44:54.245983
+Current Price: 10.64
+Buy Target: 10.794
+Sell Target: 12.306000000000001
+Stock Range Low: 10.64
+Stock Range High: 10.78
+52 Week Range low: 10.41
+52 Week Range High: 12.97
+Stock Open: 10.65
+Market Cap: 1.17B
+Market Shares: 109.65M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- SPNC -=-=-=-=-
+Transaction Time: 2015-06-29 09:46:21.061035
+Current Price: 24.03
+Buy Target: 24.3325
+Sell Target: 27.704500000000003
+Stock Range Low: 23.65
+Stock Range High: 25.25
+52 Week Range low: 22.09
+52 Week Range High: 37.04
+Stock Open: 24.8
+Market Cap: 1.08B
+Market Shares: 42.39M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- SVU -=-=-=-=-
+Transaction Time: 2015-06-29 09:46:41.132197
+Current Price: 8.3
+Buy Target: 8.4555
+Sell Target: 9.615000000000002
+Stock Range Low: 8.3
+Stock Range High: 8.47
+52 Week Range low: 7.83
+52 Week Range High: 12.0
+Stock Open: 8.4
+Market Cap: 2.23B
+Market Shares: 264.78M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- YZC -=-=-=-=-
+Transaction Time: 2015-06-29 09:49:35.134488
+Current Price: 7.9
+Buy Target: 8.0495
+Sell Target: 9.155000000000001
+Stock Range Low: 7.85
+Stock Range High: 7.93
+52 Week Range low: 7.31
+52 Week Range High: 12.24
+Stock Open: 7.93
+Market Cap: 8.22B
+Market Shares: 6.95M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- RPAI -=-=-=-=-
+Transaction Time: 2015-06-29 10:44:01.113930
+Current Price: 14.16
+Buy Target: 14.194
+Sell Target: 16.354
+Stock Range Low: 14.13
+Stock Range High: 14.37
+52 Week Range low: 13.48
+52 Week Range High: 18.24
+Stock Open: 14.21
+Market Cap: 3.34B
+Market Shares: 237.19M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- DDC -=-=-=-=-
+Transaction Time: 2015-06-29 11:34:14.439693
+Current Price: 14.11
+Buy Target: 14.129
+Sell Target: 16.296499999999998
+Stock Range Low: 14.1
+Stock Range High: 14.73
+52 Week Range low: 13.04
+52 Week Range High: 20.3
+Stock Open: 14.72
+Market Cap: 1.24B
+Market Shares: 85.25M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- NQM -=-=-=-=-
+Transaction Time: 2015-06-29 11:41:30.564773
+Current Price: 14.51
+Buy Target: 14.5185
+Sell Target: 16.7565
+Stock Range Low: 14.44
+Stock Range High: 14.75
+52 Week Range low: 14.25
+52 Week Range High: 16.04
+Stock Open: 14.75
+Market Cap: 527.37M
+Market Shares: 35.98M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- CXW -=-=-=-=-
+Transaction Time: 2015-06-30 05:38:29.800273
+Current Price: 33.2
+Buy Target: 33.589
+Sell Target: 38.25000000000001
+Stock Range Low: 33.14
+Stock Range High: 33.46
+52 Week Range low: 32.05
+52 Week Range High: 42.31
+Stock Open: 33.27
+Market Cap: 3.89B
+Market Shares: 117.02M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- EDR -=-=-=-=-
+Transaction Time: 2015-06-30 05:39:11.088905
+Current Price: 31.54
+Buy Target: 31.626
+Sell Target: 36.341
+Stock Range Low: 31.44
+Stock Range High: 31.73
+52 Week Range low: 30.21
+52 Week Range High: 39.65
+Stock Open: 31.73
+Market Cap: 1.53B
+Market Shares: 48.35M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- FBP -=-=-=-=-
+Transaction Time: 2015-06-30 06:34:55.474493
+Current Price: 4.75
+Buy Target: 4.805
+Sell Target: 5.532500000000001
+Stock Range Low: 4.73
+Stock Range High: 5.63
+52 Week Range low: 4.46
+52 Week Range High: 6.76
+Stock Open: 5.61
+Market Cap: 1.02B
+Market Shares: 213.81M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- HIW -=-=-=-=-
+Transaction Time: 2015-06-30 06:36:34.600973
+Current Price: 39.86
+Buy Target: 39.908
+Sell Target: 45.909
+Stock Range Low: 39.86
+Stock Range High: 40.41
+52 Week Range low: 38.42
+52 Week Range High: 48.34
+Stock Open: 40.24
+Market Cap: 3.75B
+Market Shares: 94.05M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- TE -=-=-=-=-
+Transaction Time: 2015-06-30 06:44:34.954448
+Current Price: 17.66
+Buy Target: 17.6765
+Sell Target: 20.379
+Stock Range Low: 17.65
+Stock Range High: 17.85
+52 Week Range low: 16.91
+52 Week Range High: 22.02
+Stock Open: 17.82
+Market Cap: 4.15B
+Market Shares: 235.12M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- MDCA -=-=-=-=-
+Transaction Time: 2015-06-30 07:39:00.063054
+Current Price: 19.5
+Buy Target: 19.589
+Sell Target: 22.495
+Stock Range Low: 19.5
+Stock Range High: 20.03
+52 Week Range low: 17.99
+52 Week Range High: 28.65
+Stock Open: 19.88
+Market Cap: 984.18M
+Market Shares: 49.85M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- KIM -=-=-=-=-
+Transaction Time: 2015-06-30 11:39:41.221728
+Current Price: 22.52
+Buy Target: 22.59
+Sell Target: 25.968
+Stock Range Low: 22.5
+Stock Range High: 22.93
+52 Week Range low: 21.54
+52 Week Range High: 28.54
+Stock Open: 22.83
+Market Cap: 9.29B
+Market Shares: 412.75M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- EEP -=-=-=-=-
+Transaction Time: 2015-07-01 10:35:30.614465
+Current Price: 33.13
+Buy Target: 33.137499999999996
+Sell Target: 38.169500000000006
+Stock Range Low: 32.92
+Stock Range High: 33.69
+52 Week Range low: 31.63
+52 Week Range High: 41.68
+Stock Open: 33.23
+Market Cap: 11.23B
+Market Shares: 262.21M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- INFI -=-=-=-=-
+Transaction Time: 2015-07-01 10:38:59.049953
+Current Price: 10.15
+Buy Target: 10.217500000000001
+Sell Target: 11.7425
+Stock Range Low: 10.13
+Stock Range High: 11.13
+52 Week Range low: 8.8
+52 Week Range High: 18.25
+Stock Open: 10.95
+Market Cap: 527.40M
+Market Shares: 49.04M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- CSII -=-=-=-=-
+Transaction Time: 2015-07-01 11:33:37.049871
+Current Price: 25.71
+Buy Target: 25.8695
+Sell Target: 29.6365
+Stock Range Low: 25.67
+Stock Range High: 27.02
+52 Week Range low: 23.15
+52 Week Range High: 41.28
+Stock Open: 26.75
+Market Cap: 819.57M
+Market Shares: 31.71M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- CHU -=-=-=-=-
+Transaction Time: 2015-07-07 06:31:51.207160
+Current Price: 13.88
+Buy Target: 13.9725
+Sell Target: 16.032
+Stock Range Low: 13.84
+Stock Range High: 14.3
+52 Week Range low: 12.93
+52 Week Range High: 19.88
+Stock Open: 14.3
+Market Cap: 33.03B
+Market Shares: 23.95B
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- VIPS -=-=-=-=-
+Transaction Time: 2015-07-07 06:39:48.984632
+Current Price: 18.83
+Buy Target: 19.0155
+Sell Target: 21.7245
+Stock Range Low: 18.35
+Stock Range High: 20.36
+52 Week Range low: 16.95
+52 Week Range High: 30.72
+Stock Open: 20.36
+Market Cap: 10.90B
+Market Shares: 991.71M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- SHI -=-=-=-=-
+Transaction Time: 2015-07-08 05:43:28.232190
+Current Price: 33.82
+Buy Target: 34.1485
+Sell Target: 38.963
+Stock Range Low: 32.43
+Stock Range High: 33.86
+52 Week Range low: 28.21
+52 Week Range High: 67.8
+Stock Open: 33.22
+Market Cap: 8.51B
+Market Shares: 3.50B
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- HNP -=-=-=-=-
+Transaction Time: 2015-07-08 07:34:26.612621
+Current Price: 45.35
+Buy Target: 45.39
+Sell Target: 52.222500000000004
+Stock Range Low: 45.2
+Stock Range High: 45.87
+52 Week Range low: 42.57
+52 Week Range High: 61.37
+Stock Open: 45.44
+Market Cap: 22.87B
+Market Shares: 3.56B
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- SMP -=-=-=-=-
+Transaction Time: 2015-07-08 10:38:06.294509
+Current Price: 33.87
+Buy Target: 34.3405
+Sell Target: 39.0205
+Stock Range Low: 33.87
+Stock Range High: 35.68
+52 Week Range low: 32.62
+52 Week Range High: 44.09
+Stock Open: 35.2
+Market Cap: 792.22M
+Market Shares: 22.99M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- EEQ -=-=-=-=-
+Transaction Time: 2015-07-17 07:31:38.285787
+Current Price: 30.92
+Buy Target: 30.970000000000002
+Sell Target: 35.628
+Stock Range Low: 30.92
+Stock Range High: 31.59
+52 Week Range low: 29.44
+52 Week Range High: 39.64
+Stock Open: 31.56
+Market Cap: 2.25B
+Market Shares: 70.40M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- DGI -=-=-=-=-
+Transaction Time: 2015-07-21 08:31:15.155163
+Current Price: 25.64
+Buy Target: 25.659
+Sell Target: 29.556
+Stock Range Low: 25.46
+Stock Range High: 26.04
+52 Week Range low: 23.85
+52 Week Range High: 35.91
+Stock Open: 25.83
+Market Cap: 1.89B
+Market Shares: 72.51M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- ADT -=-=-=-=-
+Transaction Time: 2015-07-22 07:30:10.894699
+Current Price: 32.27
+Buy Target: 32.3145
+Sell Target: 37.1805
+Stock Range Low: 32.27
+Stock Range High: 32.59
+52 Week Range low: 30.45
+52 Week Range High: 42.88
+Stock Open: 32.36
+Market Cap: 5.53B
+Market Shares: 171.30M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- CVA -=-=-=-=-
+Transaction Time: 2015-07-23 08:31:21.040099
+Current Price: 19.01
+Buy Target: 19.7385
+Sell Target: 21.931500000000003
+Stock Range Low: 18.75
+Stock Range High: 19.82
+52 Week Range low: 18.75
+52 Week Range High: 25.34
+Stock Open: 19.73
+Market Cap: 2.54B
+Market Shares: 133.65M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- KMI -=-=-=-=-
+Transaction Time: 2015-07-23 08:33:14.704075
+Current Price: 34.85
+Buy Target: 34.969
+Sell Target: 40.1475
+Stock Range Low: 34.84
+Stock Range High: 35.5
+52 Week Range low: 33.25
+52 Week Range High: 44.71
+Stock Open: 35.31
+Market Cap: 75.57B
+Market Shares: 2.17B
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- LHO -=-=-=-=-
+Transaction Time: 2015-07-23 08:33:24.499139
+Current Price: 34.16
+Buy Target: 34.533
+Sell Target: 39.354
+Stock Range Low: 34.0
+Stock Range High: 36.25
+52 Week Range low: 32.94
+52 Week Range High: 43.56
+Stock Open: 34.9
+Market Cap: 4.27B
+Market Shares: 112.96M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- NNI -=-=-=-=-
+Transaction Time: 2015-07-23 08:33:54.834615
+Current Price: 40.3
+Buy Target: 41.405
+Sell Target: 46.415
+Stock Range Low: 40.1
+Stock Range High: 42.16
+52 Week Range low: 40.1
+52 Week Range High: 48.8
+Stock Open: 42.16
+Market Cap: 1.86B
+Market Shares: 34.71M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- OLN -=-=-=-=-
+Transaction Time: 2015-07-27 05:36:19.218530
+Current Price: 22.51
+Buy Target: 22.5165
+Sell Target: 25.956500000000002
+Stock Range Low: 22.51
+Stock Range High: 22.66
+52 Week Range low: 20.43
+52 Week Range High: 34.34
+Stock Open: 22.51
+Market Cap: 1.74B
+Market Shares: 77.51M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- PSO -=-=-=-=-
+Transaction Time: 2015-07-27 05:36:36.490517
+Current Price: 17.98
+Buy Target: 17.9905
+Sell Target: 20.747
+Stock Range Low: 17.98
+Stock Range High: 18.02
+52 Week Range low: 17.2
+52 Week Range High: 22.47
+Stock Open: 18.01
+Market Cap: 14.85B
+Market Shares: 820.30M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- RGC -=-=-=-=-
+Transaction Time: 2015-07-27 05:36:40.316833
+Current Price: 18.85
+Buy Target: 18.8675
+Sell Target: 21.747500000000002
+Stock Range Low: 18.79
+Stock Range High: 18.96
+52 Week Range low: 17.87
+52 Week Range High: 24.52
+Stock Open: 18.8
+Market Cap: 2.95B
+Market Shares: 132.77M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- HPT -=-=-=-=-
+Transaction Time: 2015-07-27 10:30:36.321277
+Current Price: 27.53
+Buy Target: 27.553
+Sell Target: 31.7295
+Stock Range Low: 27.53
+Stock Range High: 27.97
+52 Week Range low: 26.38
+52 Week Range High: 34.2
+Stock Open: 27.59
+Market Cap: 4.13B
+Market Shares: 149.96M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- HZO -=-=-=-=-
+Transaction Time: 2015-08-03 06:30:29.570443
+Current Price: 17.55
+Buy Target: 17.589000000000002
+Sell Target: 20.2525
+Stock Range Low: 17.69
+Stock Range High: 18.14
+52 Week Range low: 15.63
+52 Week Range High: 28.69
+Stock Open: 18.1
+Market Cap: 447.42M
+Market Shares: 24.68M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- TNET -=-=-=-=-
+Transaction Time: 2015-08-04 05:37:02.629853
+Current Price: 16.0
+Buy Target: 19.096
+Sell Target: 18.47
+Stock Range Low: 15.76
+Stock Range High: 17.43
+52 Week Range low: 15.76
+52 Week Range High: 38.0
+Stock Open: 17.35
+Market Cap: 1.12B
+Market Shares: 70.21M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- STON -=-=-=-=-
+Transaction Time: 2015-08-05 06:31:40.158262
+Current Price: 23.01
+Buy Target: 23.755499999999998
+Sell Target: 26.5315
+Stock Range Low: 22.29
+Stock Range High: 26.4
+52 Week Range low: 22.29
+52 Week Range High: 32.06
+Stock Open: 26.0
+Market Cap: 722.81M
+Market Shares: 31.41M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- RLJ -=-=-=-=-
+Transaction Time: 2015-08-05 09:31:37.447104
+Current Price: 28.99
+Buy Target: 29.1525
+Sell Target: 33.4085
+Stock Range Low: 28.99
+Stock Range High: 29.59
+52 Week Range low: 27.9
+52 Week Range High: 36.25
+Stock Open: 29.58
+Market Cap: 3.83B
+Market Shares: 132.18M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- MPW -=-=-=-=-
+Transaction Time: 2015-08-06 05:35:49.336697
+Current Price: 12.07
+Buy Target: 12.543
+Sell Target: 13.9505
+Stock Range Low: 12.0
+Stock Range High: 12.13
+52 Week Range low: 12.0
+52 Week Range High: 15.62
+Stock Open: 12.1
+Market Cap: 2.52B
+Market Shares: 207.80M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- SBH -=-=-=-=-
+Transaction Time: 2015-08-06 05:36:22.286635
+Current Price: 25.96
+Buy Target: 27.2375
+Sell Target: 29.924
+Stock Range Low: 25.94
+Stock Range High: 27.28
+52 Week Range low: 25.82
+52 Week Range High: 35.27
+Stock Open: 27.28
+Market Cap: 4.09B
+Market Shares: 157.08M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- SHO -=-=-=-=-
+Transaction Time: 2015-08-06 08:31:28.020812
+Current Price: 13.72
+Buy Target: 13.811
+Sell Target: 15.848
+Stock Range Low: 13.69
+Stock Range High: 14.03
+52 Week Range low: 13.07
+52 Week Range High: 18.01
+Stock Open: 14.02
+Market Cap: 2.90B
+Market Shares: 208.68M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- SUNE -=-=-=-=-
+Transaction Time: 2015-08-07 06:31:32.977862
+Current Price: 15.87
+Buy Target: 16.144
+Sell Target: 18.3205
+Stock Range Low: 15.72
+Stock Range High: 17.75
+52 Week Range low: 13.09
+52 Week Range High: 33.45
+Stock Open: 17.75
+Market Cap: 5.00B
+Market Shares: 311.80M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- UAM -=-=-=-=-
+Transaction Time: 2015-08-07 06:31:46.993328
+Current Price: 8.0
+Buy Target: 8.27
+Sell Target: 9.27
+Stock Range Low: 8.0
+Stock Range High: 8.58
+52 Week Range low: 7.76
+52 Week Range High: 11.16
+Stock Open: 8.56
+Market Cap: 672.26M
+Market Shares: 80.73M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- VIPS -=-=-=-=-
+Transaction Time: 2015-08-11 08:31:44.662147
+Current Price: 18.63
+Buy Target: 19.0155
+Sell Target: 21.4945
+Stock Range Low: 18.51
+Stock Range High: 20.0
+52 Week Range low: 16.95
+52 Week Range High: 30.72
+Stock Open: 19.99
+Market Cap: 11.91B
+Market Shares: 991.71M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- TSM -=-=-=-=-
+Transaction Time: 2015-08-17 08:31:45.992407
+Current Price: 20.14
+Buy Target: 20.347
+Sell Target: 23.231
+Stock Range Low: 19.69
+Stock Range High: 20.17
+52 Week Range low: 19.39
+52 Week Range High: 25.77
+Stock Open: 19.9
+Market Cap: 100.44B
+Market Shares: 25.93B
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- TNET -=-=-=-=-
+Transaction Time: 2015-08-19 05:36:26.227740
+Current Price: 18.12
+Buy Target: 18.297
+Sell Target: 20.908
+Stock Range Low: 18.12
+Stock Range High: 18.36
+52 Week Range low: 14.82
+52 Week Range High: 38.0
+Stock Open: 18.36
+Market Cap: 1.28B
+Market Shares: 70.49M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- IFN -=-=-=-=-
+Transaction Time: 2015-08-20 05:35:39.852908
+Current Price: 25.57
+Buy Target: 25.5785
+Sell Target: 29.4755
+Stock Range Low: 25.56
+Stock Range High: 25.77
+52 Week Range low: 24.77
+52 Week Range High: 30.16
+Stock Open: 25.77
+Market Cap: 757.06M
+Market Shares: 29.61M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- JBL -=-=-=-=-
+Transaction Time: 2015-08-21 05:35:28.402239
+Current Price: 18.82
+Buy Target: 19.068
+Sell Target: 21.713
+Stock Range Low: 18.76
+Stock Range High: 18.9
+52 Week Range low: 18.03
+52 Week Range High: 24.95
+Stock Open: 18.89
+Market Cap: 3.65B
+Market Shares: 193.83M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- KKD -=-=-=-=-
+Transaction Time: 2015-08-21 05:35:34.591383
+Current Price: 17.08
+Buy Target: 17.228499999999997
+Sell Target: 19.712
+Stock Range Low: 17.02
+Stock Range High: 17.2
+52 Week Range low: 16.33
+52 Week Range High: 22.32
+Stock Open: 17.2
+Market Cap: 1.09B
+Market Shares: 63.99M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- KNX -=-=-=-=-
+Transaction Time: 2015-08-21 07:30:46.450020
+Current Price: 25.48
+Buy Target: 25.5925
+Sell Target: 29.372
+Stock Range Low: 25.4
+Stock Range High: 26.07
+52 Week Range low: 23.98
+52 Week Range High: 34.73
+Stock Open: 25.8
+Market Cap: 2.07B
+Market Shares: 81.32M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- STON -=-=-=-=-
+Transaction Time: 2015-08-21 11:31:21.989983
+Current Price: 23.45
+Buy Target: 23.7385
+Sell Target: 27.037499999999998
+Stock Range Low: 23.4
+Stock Range High: 25.0
+52 Week Range low: 22.27
+52 Week Range High: 32.06
+Stock Open: 25.0
+Market Cap: 768.31M
+Market Shares: 31.41M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- LGF -=-=-=-=-
+Transaction Time: 2015-08-24 05:35:59.089761
+Current Price: 27.51
+Buy Target: 29.343
+Sell Target: 31.706500000000002
+Stock Range Low: 27.51
+Stock Range High: 34.2
+52 Week Range low: 27.51
+52 Week Range High: 39.73
+Stock Open: 34.2
+Market Cap: 4.08B
+Market Shares: 148.30M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- MS -=-=-=-=-
+Transaction Time: 2015-08-24 05:36:05.152254
+Current Price: 31.24
+Buy Target: 31.996
+Sell Target: 35.996
+Stock Range Low: 30.4
+Stock Range High: 31.87
+52 Week Range low: 30.4
+52 Week Range High: 41.04
+Stock Open: 31.88
+Market Cap: 61.02B
+Market Shares: 1.95B
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- RPM -=-=-=-=-
+Transaction Time: 2015-08-24 05:36:30.417877
+Current Price: 41.36
+Buy Target: 41.43
+Sell Target: 47.634
+Stock Range Low: 41.36
+Stock Range High: 41.66
+52 Week Range low: 39.57
+52 Week Range High: 51.97
+Stock Open: 41.66
+Market Cap: 5.52B
+Market Shares: 133.43M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- SSP -=-=-=-=-
+Transaction Time: 2015-08-24 05:36:39.136627
+Current Price: 17.15
+Buy Target: 17.242
+Sell Target: 19.792499999999997
+Stock Range Low: 16.98
+Stock Range High: 17.15
+52 Week Range low: 15.22
+52 Week Range High: 28.7
+Stock Open: 17.02
+Market Cap: 1.44B
+Market Shares: 72.31M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- WWW -=-=-=-=-
+Transaction Time: 2015-08-24 05:37:19.152254
+Current Price: 25.5
+Buy Target: 25.8585
+Sell Target: 29.395
+Stock Range Low: 25.37
+Stock Range High: 25.52
+52 Week Range low: 24.21
+52 Week Range High: 35.2
+Stock Open: 25.48
+Market Cap: 2.63B
+Market Shares: 103.10M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- XL -=-=-=-=-
+Transaction Time: 2015-08-24 05:37:22.339752
+Current Price: 5.4
+Buy Target: 10.651499999999999
+Sell Target: 6.280000000000001
+Stock Range Low: 5.4
+Stock Range High: 5.48
+52 Week Range low: 5.4
+52 Week Range High: 40.41
+Stock Open: 37.83
+Market Cap: 1.63B
+Market Shares: 302.31M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- XPO -=-=-=-=-
+Transaction Time: 2015-08-24 05:37:23.871001
+Current Price: 32.22
+Buy Target: 33.1865
+Sell Target: 37.123
+Stock Range Low: 31.51
+Stock Range High: 32.63
+52 Week Range low: 30.05
+52 Week Range High: 50.96
+Stock Open: 32.32
+Market Cap: 3.07B
+Market Shares: 95.36M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=- HAE -=-=-=-=-
+Transaction Time: 2015-08-26 08:30:18.910391
+Current Price: 35.38
+Buy Target: 35.5005
+Sell Target: 40.757000000000005
+Stock Range Low: 35.34
+Stock Range High: 36.14
+52 Week Range low: 33.75
+52 Week Range High: 45.42
+Stock Open: 36.04
+Market Cap: 1.80B
+Market Shares: 50.89M
+Stock Status: Bought
+-=-=-=-=-=-=-=-=-=-=-=-
